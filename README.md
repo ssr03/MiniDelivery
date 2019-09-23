@@ -143,7 +143,7 @@ src
 
 ## Plan
 
-![image-20190715134607429](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715134607429.png)
+![image-20190715134607429](assets/image-20190715134607429.png)
 
 
 

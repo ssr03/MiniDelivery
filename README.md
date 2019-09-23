@@ -141,6 +141,129 @@ src
 
 ![mini_yogiyo_erd](assets/mini_yogiyo_erd-3159463.png)
 
+## Plan
+
+![image-20190715134607429](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715134607429.png)
+
+
+
+## Etc
+
+### Cooperation Rules
+
+[링크](project/docs/cooperation_rule.md)
+
+- 깃허브 Projects 기능 사용(Card 생성부터 Merge까지)
+- PR Rule
+- Branch Rule
+- Commit Message Rule
+
+
+
+### Presentation
+
+- [1차 스프린트](https://drive.google.com/open?id=1yBBSS6l1bjBoOzcIB1GWCl6CNbyRlvFs)
+- [2차 스프린트](https://drive.google.com/open?id=1SpcKevIUz1cITU7q6QEAkxyPKderigth)
+- [3차 스프린트](https://drive.google.com/open?id=1mROq3ajyMPApvuohq4WIpLYUXSTwfFyQ)
+- [4차 스프린트](https://docs.google.com/presentation/d/13Q7M_v67PCkLECLRBv0kQRVNSo38bznKnXh2hQsMWrk/edit?usp=sharing)
+- [5차 스프린트 - 최종발표](https://drive.google.com/open?id=1i1CrWH1_hlwe-cSI6vQhfHy-7kFAhJlF)
+
+
+
+## Screens
+
+![image-20190715121545000](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121545000.png)
+
+<홈 화면>
+
+
+
+![image-20190715121614718](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121614718.png)
+
+<레스토랑 디테일>
+
+
+
+![image-20190715121634021](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121634021.png)
+
+<메뉴 디테일>
+
+
+
+![image-20190715121724849](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121724849.png)
+
+<Gift Card>
+
+
+
+![image-20190715121803458](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121803458.png)
+
+
+
+![image-20190715121838035](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121838035.png)
+
+<랜덤 메뉴 Pick>
+
+
+
+![image-20190715121854534](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121854534.png)
+
+<랜덤 메뉴 Pick - 1>
+
+
+
+![image-20190715121944736](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121944736.png)
+
+<주문표>
+
+
+
+![image-20190715122001358](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122001358.png)
+
+<주문 페이지>
+
+
+
+![image-20190715122016856](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122016856.png)
+
+<마이 페이지>
+
+
+
+![image-20190715122140105](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122140105.png)
+
+<주문 내역>
+
+
+
+![image-20190715122214796](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122214796.png)
+
+<구독 페이지>
+
+
+
+![image-20190715170500919](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170500919.png)
+
+<요식이 리스트>
+
+![image-20190715170531686](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170531686.png)
+
+<날씨yo>
+
+
+
+![image-20190715170619923](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170619923.png)
+
+<레스토랑 타임라인>
+
+
+
+![image-20190715170650616](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170650616.png)
+
+<메뉴 타임라인>
+
+
+
 ## API Specifications
 
 ## accounts
@@ -998,127 +1121,4 @@ src
 - path params: None
 - description: 내가 기존 주문했던 메뉴 중 랜덤으로 메뉴 1개를 골라 준다.
 
-------
 
-
-
-## Plan
-
-![image-20190715134607429](assets/image-20190715134607429.png)
-
-
-
-## Etc
-
-### Cooperation Rules
-
-[링크](project/docs/cooperation_rule.md)
-
-- 깃허브 Projects 기능 사용(Card 생성부터 Merge까지)
-- PR Rule
-- Branch Rule
-- Commit Message Rule
-
-
-
-### Presentation
-
-- [1차 스프린트](assets/Rookie Hero Project - 1차 스프린트.pptx)
-- [2차 스프린트](assets/Rookie Hero Project 2차 스프린트.pptx)
-- [3차 스프린트](assets/Rookie Hero Project 3차 스프린트.pptx)
-- [4차 스프린트](https://docs.google.com/presentation/d/13Q7M_v67PCkLECLRBv0kQRVNSo38bznKnXh2hQsMWrk/edit?usp=sharing)
-- [5차 스프린트 - 최종발표](assets/미니 요기요 최종 발표.pptx)
-
-
-
-## Screens
-
-![image-20190715121545000](assets/image-20190715121545000.png)
-
-<홈 화면>
-
-
-
-![image-20190715121614718](assets/image-20190715121614718.png)
-
-<레스토랑 디테일>
-
-
-
-![image-20190715121634021](assets/image-20190715121634021.png)
-
-<메뉴 디테일>
-
-
-
-![image-20190715121724849](assets/image-20190715121724849.png)
-
-<Gift Card1>
-
-
-
-![image-20190715121803458](assets/image-20190715121803458.png)
-
-
-
-![image-20190715121838035](assets/image-20190715121838035.png)
-
-<랜덤 메뉴 Pick>
-
-
-
-![image-20190715121854534](assets/image-20190715121854534.png)
-
-<랜덤 메뉴 Pick - 1>
-
-
-
-![image-20190715121944736](assets/image-20190715121944736.png)
-
-<주문표>
-
-
-
-![image-20190715122001358](assets/image-20190715122001358.png)
-
-<주문 페이지>
-
-
-
-![image-20190715122016856](assets/image-20190715122016856.png)
-
-<마이 페이지>
-
-
-
-![image-20190715122140105](assets/image-20190715122140105.png)
-
-<주문 내역>
-
-
-
-![image-20190715122214796](assets/image-20190715122214796.png)
-
-<구독 페이지>
-
-
-
-![image-20190715170500919](assets/image-20190715170500919.png)
-
-<요식이 리스트>
-
-![image-20190715170531686](assets/image-20190715170531686.png)
-
-<날씨yo>
-
-
-
-![image-20190715170619923](assets/image-20190715170619923.png)
-
-<레스토랑 타임라인>
-
-
-
-![image-20190715170650616](assets/image-20190715170650616.png)
-
-<메뉴 타임라인>

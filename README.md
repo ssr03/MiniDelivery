@@ -172,93 +172,93 @@ src
 
 ## Screens
 
-![image-20190715121545000](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121545000.png)
+![image-20190715121545000](assets/image-20190715121545000.png)
 
 <홈 화면>
 
 
 
-![image-20190715121614718](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121614718.png)
+![image-20190715121614718](assets/image-20190715121614718.png)
 
 <레스토랑 디테일>
 
 
 
-![image-20190715121634021](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121634021.png)
+![image-20190715121634021](assets/image-20190715121634021.png)
 
 <메뉴 디테일>
 
 
 
-![image-20190715121724849](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121724849.png)
+![image-20190715121724849](assets/image-20190715121724849.png)
 
-<Gift Card>
-
-
-
-![image-20190715121803458](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121803458.png)
+< Gift Card >
 
 
 
-![image-20190715121838035](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121838035.png)
+![image-20190715121803458](assets/image-20190715121803458.png)
+
+
+
+![image-20190715121838035](assets/image-20190715121838035.png)
 
 <랜덤 메뉴 Pick>
 
 
 
-![image-20190715121854534](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121854534.png)
+![image-20190715121854534](assets/image-20190715121854534.png)
 
 <랜덤 메뉴 Pick - 1>
 
 
 
-![image-20190715121944736](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715121944736.png)
+![image-20190715121944736](assets/image-20190715121944736.png)
 
 <주문표>
 
 
 
-![image-20190715122001358](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122001358.png)
+![image-20190715122001358](assets/image-20190715122001358.png)
 
 <주문 페이지>
 
 
 
-![image-20190715122016856](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122016856.png)
+![image-20190715122016856](assets/image-20190715122016856.png)
 
 <마이 페이지>
 
 
 
-![image-20190715122140105](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122140105.png)
+![image-20190715122140105](assets/image-20190715122140105.png)
 
 <주문 내역>
 
 
 
-![image-20190715122214796](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715122214796.png)
+![image-20190715122214796](assets/image-20190715122214796.png)
 
 <구독 페이지>
 
 
 
-![image-20190715170500919](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170500919.png)
+![image-20190715170500919](assets/image-20190715170500919.png)
 
 <요식이 리스트>
 
-![image-20190715170531686](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170531686.png)
+![image-20190715170531686](assets/image-20190715170531686.png)
 
 <날씨yo>
 
 
 
-![image-20190715170619923](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170619923.png)
+![image-20190715170619923](assets/image-20190715170619923.png)
 
 <레스토랑 타임라인>
 
 
 
-![image-20190715170650616](C:/Users/son93/Documents/GitHub/MiniProject/assets/image-20190715170650616.png)
+![image-20190715170650616](assets/image-20190715170650616.png)
 
 <메뉴 타임라인>
 
